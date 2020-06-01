@@ -4,8 +4,8 @@
 
 ### :wrench: Stack
 
-> NodeJs
-> TypeScript
+* Node
+* TypeScript
 
 
 ### :rocket: Features
