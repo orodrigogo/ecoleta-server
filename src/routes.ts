@@ -20,7 +20,7 @@ routes.post(
   celebrate({
     body: Joi.object().keys({
       name: Joi.string().required(),
-      email: Joi.string().required().email,
+      email: Joi.string().required().email(),
       whatsapp: Joi.string().required(),
       latitude: Joi.number().required(),
       longitude: Joi.number().required(),
@@ -28,6 +28,8 @@ routes.post(
       uf: Joi.string().required().max(2),
       items: Joi.string().required(),
     })
+  }, {
+    abortEarly: false // para mostrar todos os campos inválidos de uma vez.
   }),
   pointsController.create
 );
