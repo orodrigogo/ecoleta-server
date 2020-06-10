@@ -16,7 +16,7 @@ class ItemsController {
   });
 
   return response.json(serializedItems);
-    
+  
   }
 }
 
