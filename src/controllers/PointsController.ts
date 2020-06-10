@@ -23,11 +23,11 @@ class PointsController {
     const serializedPoints = points.map(point => {
       return {
         ...point,
-        image_url: `http://192.168.1.12:3333/uploads/${point.image}`,
+        image_url: `http://192.168.1.5:3333/uploads/${point.image}`,
       };
     });
 
-    return response.json(points);
+    return response.json(serializedPoints);
   }
 
 
