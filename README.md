@@ -22,11 +22,6 @@ Na **plataforma Web do Ecoleta** é possível cadastrar novos pontos de coleta d
 
 
 
-### Stack 
-No desenvolvimento do **Ecoleta** foi utilizado **React Native** com **TypeScript** no ambiente **Expo**. 
-
-
-
 **Recursos** da API: 
 
 - [x] Upload de imagem;
@@ -47,15 +42,13 @@ Clique no botão para importar as Rotas de teste da API em seu Insomnia.
 
 
 
-
-
-
 ### Stack 
-API desenvolvida com **NodeJS** e **TypeScript**. O banco de dados utilizado foi o **SQLite** e para as rotas o **Express**.
+API foi desenvolvida com **NodeJS** e **TypeScript**. O banco de dados utilizado foi o **SQLite** e para as rotas o **Express**.
 
 
 
-Para **iniciar o projeto:**:
+
+### Para iniciar o projeto
 
 
 ```bash
