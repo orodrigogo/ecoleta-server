@@ -38,6 +38,8 @@ No desenvolvimento do **Ecoleta** foi utilizado **React Native** com **TypeScrip
 
 
 **Rotas** da API:
+Clique no botão para importar as Rotas de teste da API em seu Insomnia.
+
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Ecoleta&uri=https%3A%2F%2Fgithub.com%2Frodrigorgtic%2Fecoleta-server%2Fblob%2Fmaster%2Finsomnia-api-routes.json)
 
