@@ -22,7 +22,7 @@ Na **plataforma Web do Ecoleta** é possível cadastrar novos pontos de coleta d
 
 
 
-### :star: Stack & Features
+### Stack 
 No desenvolvimento do **Ecoleta** foi utilizado **React Native** com **TypeScript** no ambiente **Expo**. 
 
 
@@ -39,9 +39,14 @@ No desenvolvimento do **Ecoleta** foi utilizado **React Native** com **TypeScrip
 
 **Rotas** da API:
 
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Ecoleta&uri=https%3A%2F%2Fgithub.com%2Frodrigorgtic%2Fecoleta-server%2Fblob%2Fmaster%2Finsomnia-api-routes.json)
 
 
-### :wrench: Stack & Features
+
+
+
+
+### Stack 
 API desenvolvida com **NodeJS** e **TypeScript**. O banco de dados utilizado foi o **SQLite** e para as rotas o **Express**.
 
 
